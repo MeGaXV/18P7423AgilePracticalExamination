@@ -42,11 +42,13 @@
 2. Create a basic empty model of the Hidden Leaf Village
 3. Create a basic female and male character player model
 4. Create Sprint mechanic
+5. Create Music for the menus
 ### Sprint 2
 1. Create the first set of Characters (Playable and not playable) as stated below
 2. Create basic action mechanics (Dodge, punch, kick, jump)
 3. Create the first set of basic jutsu as stated below
 4. Create basic side missions (Delivery quests, and Gather quests)
+5. Create Background music for free roam
 
 ### First Set Of Characters
 | Name | Image | Playable?|
