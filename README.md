@@ -43,12 +43,12 @@ This is a MMO RPG game where the players can create their own character or play 
 3. Create a basic female and male character player model
 4. Create basic action mechanics (Dodge, punch, kick, jump)
 5. Create Music for the menus
+6. Create Background music for free roam
 ### Sprint 2
 1. Create the first set of Characters (Playable and not playable) as stated below
 2. Create Sprint & Parkour Mechanics
 3. Create the first set of basic jutsu as stated below
 4. Create leveling system
-5. Create Background music for free roam
 
 ### First Set Of Characters
 | Name | Image | Playable?|
