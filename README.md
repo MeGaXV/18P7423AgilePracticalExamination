@@ -66,3 +66,17 @@
 | Fireball Jutsu | The user breathes out a ball made out of fire in the indicated direction | ![Fireball Jutsu GIF](media/fireball.gif) |
 | Lightning Blade (Chidori) | The user creates a ball of lightning in their palms and runs towards a target to deal a damaging blow  | ![Chidori GIF](media/chidori.gif) |
 | Eight Trigrams Palm Rotation | The user rotates creating a sphere around them that sheilds the user from objects and deals damage to people that touch it | ![8 Trigrams GIF](media/8trigrams.gif) |
+
+## Far Vision
+1. Create a fully functional MMO RPG based on the Naruto Universe
+2. Implement all jutsus that appeared in the show
+3. Create a character creator based on the Naruto artwork
+4. Introduce PVP
+5. Create Time-Based events
+
+## PBI Order Rationale
+I ordered the PBIs by checking to see the dependencies of each PBI to make sure all the items needed to develop a PBI are present.
+I also took into account that there are some PBIs that need to be built right away like the basic character models, actions, and sprinting & parkour because these are basic things that are going to be used by every playable character. Miscellaneous things like the music and login and pause UI were left at the end.
+## Ordered Product Backlog
+![Product Backlog](media/backlog.jpg)
+
