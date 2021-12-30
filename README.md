@@ -80,3 +80,6 @@ I also took into account that there are some PBIs that need to be built right aw
 ## Ordered Product Backlog
 ![Product Backlog](media/backlog.jpg)
 
+## Worflow
+After a story is created and placed in its correct order, we need to start working on it (in progress). If the development team believe that the story is done, the story moves from in progess to needs review. Then, the Product Owner reviews the feature, if he approves it then the development of the feature has concluded, if he rejects the feature then the development team will begin to adjust the feature for the Product Owner to approve it.
+![Workflow](media/workflow.pns)
