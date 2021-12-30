@@ -43,24 +43,24 @@
 3. Create a basic female and male character player model
 4. Create Sprint mechanic
 ### Sprint 2
-1. Create the first set of NPCs as stated below
+1. Create the first set of Characters (Playable and not playable) as stated below
 2. Create basic action mechanics (Dodge, punch, kick, jump)
 3. Create the first set of basic jutsu as stated below
 4. Create basic side missions (Delivery quests, and Gather quests)
 
-### First Set Of NPCs
-| Name | Image |
-| ----------- | ----------- |
-| Naruto Uzumaki (Part 1) | <img src="media/Naruto(young).png" alt="Naruto Image" height="200px" /> |
-| Sasuke Uchiha (Part 1) | <img src="media/Sasuke(young).png" alt="Sasuke Image" height="200px" /> |
-| Kakashi Hatake | <img src="media/Kakashi.png" alt="Kakashi Image" height="200px" /> |
-| Iruka Umino | <img src="media/Iruka.png" alt="Iruka Image" height="200px" /> |
-| Hiruzen Sarutobi (Hokage Outfit) | <img src="media/hiruzen(hokage_outfit).png" alt="Hiruzen Image" height="200px" /> |
+### First Set Of Characters
+| Name | Image | Playable?|
+| ----------- | ----------- | ----------- |
+| Naruto Uzumaki (Part 1) | <img src="media/Naruto(young).png" alt="Naruto Image" height="200px" /> | ✓ |
+| Sasuke Uchiha (Part 1) | <img src="media/Sasuke(young).png" alt="Sasuke Image" height="200px" /> | ✓ |
+| Kakashi Hatake | <img src="media/Kakashi.png" alt="Kakashi Image" height="200px" /> | ✓ |
+| Iruka Umino | <img src="media/Iruka.png" alt="Iruka Image" height="200px" /> | ✗ |
+| Hiruzen Sarutobi (Hokage Outfit) | <img src="media/hiruzen(hokage_outfit).png" alt="Hiruzen Image" height="200px" /> | ✓ |
 
 #### First Set of Jutsu
 | Name | Description | Image |
 | ----------- | ----------- | ----------- |
 | Shadow Clone Jutsu | The user can summon multiple copies of themselves to fight | ![Shadow Clone GIF](media/shadowclone.gif) | 
-| Fireball Jutsu | The user breathes out a ball mad out of fire in the indicated direction | ![Fireball Jutsu GIF](media/fireball.gif) |
+| Fireball Jutsu | The user breathes out a ball made out of fire in the indicated direction | ![Fireball Jutsu GIF](media/fireball.gif) |
 | Lightning Blade (Chidori) | The user creates a ball of lightning in their palms and runs towards a target to deal a damaging blow  | ![Chidori GIF](media/chidori.gif) |
 | Eight Trigrams Palm Rotation | The user rotates creating a sphere around them that sheilds the user from objects and deals damage to people that touch it | ![8 Trigrams GIF](media/8trigrams.gif) |
