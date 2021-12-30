@@ -6,27 +6,27 @@
 #### Team 1
 | Name | Role | Expertise |
 | ----------- | ----------- | ----------- |
-| Abdel-Rahman | Designer | Main Story Design |
-| Abdel-Rahman | Artist | Background Layout |
-| Abdel-Rahman | Sound Engineer | Voice Editing |
-| Abdel-Rahman | Programmer | UI & Physics |
+| Abdel-Rahman Megahed | Designer | Main Story Design |
+| Menna | Artist | Background Layout |
+| Ahmed Dessouky | Sound Engineer | Voice Editing |
+| Akmal | Programmer | UI & Physics |
 
 
 #### Team 2
 | Name | Role | Expertise |
 | ----------- | ----------- | ----------- |
-| Abdel-Rahman | Designer | MMO Design |
-| Abdel-Rahman | Programmer | Network Communications & AI |
-| Abdel-Rahman | Programmer | Input Processing & Gameplay |
-| Abdel-Rahman | Artist | Character Models & Outfits |
+| Youssef | Designer | MMO Design |
+| Seif | Programmer | Network Communications & AI |
+| Mohamed | Programmer | Input Processing & Gameplay |
+| Nadine | Artist | Character Models & Outfits |
 
 #### Team 3
 | Name | Role | Expertise |
 | ----------- | ----------- | ----------- |
-| Abdel-Rahman | Designer | RPG Design | 
-| Abdel-Rahman | Artist | Story and Game Design |
-| Abdel-Rahman | Sound Engineer | Audio Merging |
-| Abdel-Rahman | Sound Engineer | Game Soundtracks |
+| Mostafa | Designer | RPG Design | 
+| Mariam | Artist | Story and Game Design |
+| Mahmoud | Sound Engineer | Audio Merging |
+| Hannah | Sound Engineer | Game Soundtracks |
 
 ### Stakeholders
 | Name | Influence | Availability | Engagement |
