@@ -47,7 +47,7 @@
 1. Create the first set of Characters (Playable and not playable) as stated below
 2. Create Sprint & Parkour Mechanics
 3. Create the first set of basic jutsu as stated below
-4. Create basic side missions (Delivery quests, and Gather quests)
+4. Create leveling system
 5. Create Background music for free roam
 
 ### First Set Of Characters
