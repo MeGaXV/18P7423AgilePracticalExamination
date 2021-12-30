@@ -1,6 +1,6 @@
 # Name: Naruto: Project S
 # By: Abdel-Rahman Ibrahim El Said Ahmed Megahed  ID: 18P7423
-
+This is a MMO RPG game where the players can create their own character or play as the ones from the series in an online adventure where they choose if they want to be a good ninja or a rogue one.
 
 ### Team Members
 #### Team 1
