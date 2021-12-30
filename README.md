@@ -60,7 +60,7 @@
 #### First Set of Jutsu
 | Name | Description | Image |
 | ----------- | ----------- | ----------- |
-| Shadow Clone Jutsu | The user can summon multiple copies of themselves to fight |  | 
-| Fireball Jutsu | The user breathes out a ball mad out of fire in the indicated direction |  |
-| Lightning Blade (Chidori) | The user creates a ball of lightning in their palms and runs towards a target to deal a damaging blow  |  |
-| Eight Trigrams Palm Rotation | The user rotates creating a sphere around them that sheilds the user from objects and deals damage to people that touch it |  |
+| Shadow Clone Jutsu | The user can summon multiple copies of themselves to fight | ![Shadow Clone GIF](media/shadowclone.gif) | 
+| Fireball Jutsu | The user breathes out a ball mad out of fire in the indicated direction | ![Fireball Jutsu GIF](media/fireball.gif) |
+| Lightning Blade (Chidori) | The user creates a ball of lightning in their palms and runs towards a target to deal a damaging blow  | ![Chidori GIF](media/chidori.gif) |
+| Eight Trigrams Palm Rotation | The user rotates creating a sphere around them that sheilds the user from objects and deals damage to people that touch it | ![8 Trigrams GIF](media/8trigrams.gif) |
