@@ -24,7 +24,7 @@
 | Name | Role | Expertise |
 | ----------- | ----------- | ----------- |
 | Mostafa | Designer | RPG Design | 
-| Mariam | Artist | Story and Game Design |
+| Mariam | Programmer | Physics & Graphics |
 | Mahmoud | Sound Engineer | Audio Merging |
 | Hannah | Sound Engineer | Game Soundtracks |
 
