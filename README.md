@@ -83,3 +83,33 @@ I also took into account that there are some PBIs that need to be built right aw
 ## Worflow
 After a story is created and placed in its correct order, we need to start working on it (in progress). If the development team believe that the story is done, the story moves from in progess to needs review. Then, the Product Owner reviews the feature, if he approves it then the development of the feature has concluded, if he rejects the feature then the development team will begin to adjust the feature for the Product Owner to approve it.
 ![Workflow](media/workflow.png)
+
+## 2 Daily Scrum Documents
+1. 
+| Name | Questions to be answered | Sunday | Monday | Tuesday | Wednesday | Thursday |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Abdel-Rahman | What did I do yesterday? | Worked on the main villian backstory | Finished the character of the main villian |  |  |  |
+|  | what will I work on today? | I will finalize the character of the main villian | Design the story board for the main storyline |  |  |  |
+|  | Did I encounter any obstacles? | No | No |  |  |  |
+| Menna |  What did I do yesterday? | Created a 3D model of the outside hokage mansion in the Hidden leaf village | Modeled the hokage's office |  |  |  |
+|  | what will I work on today? | Model the hokage's office | Create a 3D model of the main street of the village |  |  |  |
+|  | Did I encounter any obstacles? | The computer was slow at rendering the environment | No |  |  |  |
+2.
+| Name | Questions to be answered | Sunday | Monday | Tuesday | Wednesday | Thursday |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Abdel-Rahman | What did I do yesterday? | Designed the basic leveling system | Assigned levels to developed jutsus and future ones |  |  |  |
+|  | what will I work on today? | Assign levels to developed jutsus and future ones | Work on the character perks |  |  |  |
+|  | Did I encounter any obstacles? | Was not sure what levels to assign some jutsus | No |  |  |  |
+| Menna |  What did I do yesterday? | Worked on Naruto's body | Worked on Naruto's hair & physics |  |  |  |
+|  | what will I work on today? | Work on Naruto's hair & physics | Create the animation for the Shadow clone jutsu |  |  |  |
+|  | Did I encounter any obstacles? | Not enough references | Animations were choppy so I tried to increase the framerate |  |  |  |
+
+## Sprint Document
+### First:
+Goal: Acheive a beta version of the Hidden Leaf village and be able to traverse the village freely by using the developed character models that can do the basic actions like jumping and punching. Also, complete the login screeen and main menu UI with background music.  
+Progress: Completed successfully  
+Next Sprint: Get the first 2 NPCs, 3 playable characters and some jutsu, and the sprinting and parkour mechanics to be implemented  
+### Second:
+Goal: Get the first 2 NPCs, 3 playable characters and some jutsu, and the sprinting and parkour mechanics to be implemented. Also, add music when exploring the Hidden Leaf Village  
+Progress: Completed successfully  
+Next Sprint: Add more characters, more jutsu, and begin building the character creator
