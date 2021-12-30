@@ -57,7 +57,7 @@
 | Sasuke Uchiha (Part 1) | <img src="media/Sasuke(young).png" alt="Sasuke Image" height="200px" /> | ✓ |
 | Kakashi Hatake | <img src="media/Kakashi.png" alt="Kakashi Image" height="200px" /> | ✓ |
 | Iruka Umino | <img src="media/Iruka.png" alt="Iruka Image" height="200px" /> | ✗ |
-| Hiruzen Sarutobi (Hokage Outfit) | <img src="media/hiruzen(hokage_outfit).png" alt="Hiruzen Image" height="200px" /> | ✓ |
+| Hiruzen Sarutobi (Hokage Outfit) | <img src="media/hiruzen(hokage_outfit).png" alt="Hiruzen Image" height="200px" /> | ✗ |
 
 #### First Set of Jutsu
 | Name | Description | Image |
